@@ -1,1 +1,2 @@
 # Chocolatey
+## ¿Qué es Chocolatey?
