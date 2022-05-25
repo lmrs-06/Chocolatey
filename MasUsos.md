@@ -7,3 +7,6 @@ Tambien podemos actualizar todos los programas con choco upgrade all
 
 O actualizar individualmente con, por ejemplo, choco upgrade adobereader
 ![Mas 3](https://github.com/lmrs-06/Chocolatey/blob/main/foto%20github/extra3.PNG)
+
+Para mas comandos, puede revisar la pagina oficial de chocolatey
+![Enlace](https://community.chocolatey.org)
